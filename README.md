@@ -1,4 +1,4 @@
-# Bellevue Club Tennis Reservation App
+# Bellevue Club Tennis Reservation Bot
 
 An application that automates making Bellevue Club Tennis reservations through the [Bellevue Club Tennis](https://www.bellevueclub.com/move/tennis/) website.
 
